@@ -1,4 +1,4 @@
-# Understanding Regex: Email Validation
+# Regex: Email Validation
 
 Regex, short for regular expressions, are used to find specific patterns in strings. In this tutorial, we will break down a regex used for basic email validation
 
@@ -66,7 +66,7 @@ and `[\da-z\.-]` matches any digit, lowercase letter, period or dash.
 
 The OR operator in regex is represented by the pipe symbol `|`. It allows the regex to match the pattern before or the pattern after the operator.
 
-For example, in the regex `(cat|dog)`, the regex will match either "cat" or "dog".
+For example, in the regex `(rain|snow)`, the regex will match either "rain" or "snow".
 
 
 ### Flags
