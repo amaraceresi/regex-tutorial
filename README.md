@@ -86,11 +86,11 @@ You can escape it with a backslash `\\.` to tell the regex you want to match the
 
 ## Author
 
-This tutorial was created by Amara Ceresi. Feel free to reach out with any questions.
+This tutorial was created by [Amara Ceresi](https://github.com/amaraceresi). Feel free to reach out with any questions.
 
-## GitHub
+## Resources
 
-https://github.com/amaraceresi
+For a more detailed look into regex, you can also check out this [tutorial](https://github.com/amaraceresi/regex-tutorial) available in the Resources section.
 
 
 
